@@ -1,0 +1,17 @@
+com\baraton\campusnav\controller\AuthController.class
+com\baraton\campusnav\model\Path.class
+com\baraton\campusnav\model\Building.class
+com\baraton\campusnav\model\User$Role.class
+com\baraton\campusnav\model\User.class
+com\baraton\campusnav\CampusNavApplication.class
+com\baraton\campusnav\model\Category.class
+com\baraton\campusnav\controller\BuildingController.class
+com\baraton\campusnav\config\SecurityConfig.class
+com\baraton\campusnav\repository\BuildingRepository.class
+com\baraton\campusnav\repository\UserRepository.class
+com\baraton\campusnav\service\RoutingService.class
+com\baraton\campusnav\controller\RoutingController.class
+com\baraton\campusnav\service\PathService.class
+com\baraton\campusnav\repository\PathRepository.class
+com\baraton\campusnav\service\BuildingService.class
+com\baraton\campusnav\service\RoutingService$RouteResult.class
