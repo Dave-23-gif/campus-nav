@@ -18,3 +18,6 @@ Thumbs.db
 
 # Database
 backend/src/main/resources/application.properties
+node_modules/
+package-lock.json
+generate_docs.mjs
